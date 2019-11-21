@@ -1,5 +1,5 @@
 21/11/2019
-You can't use it if you are not me, but maybe you can understand how it's work for your own use
+## You can't use it if you are not me, but maybe you can understand how it's work for your own use
 
 
 If you still want to use it to get refresh token :
@@ -13,5 +13,6 @@ If you still want to use it to get refresh token :
    7) Put your client secret (don't change anything else) and press 'get refresh token'
    8) End
     
-   /!\ Code get by 'Get Grant Token' is only available for 5min
-       You can only get refresh token the first time (zoho restriction ?) if you didn't save it create a new client.
+/!\
+* Code get by 'Get Grant Token' is only available for 5min.
+* You can only get refresh token the first time (zoho restriction ?) if you didn't save it create a new client.
