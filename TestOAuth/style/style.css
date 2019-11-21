@@ -1,0 +1,13 @@
+#global_container{
+    margin-left: 0px;
+}
+
+.LOT_STOCK{
+    
+}
+.LOT_RESERVE{
+    background-color: #d1d1d1 !important;
+}
+.LOT_OPTION{
+    background-color: #fff5c7 !important;
+}
